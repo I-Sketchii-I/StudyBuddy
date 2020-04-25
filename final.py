@@ -10,8 +10,8 @@ from sumy.nlp.stemmers import Stemmer
 from sumy.utils import get_stop_words
 
 # Please don't steal my API Keys
-my_api_key = 'AIzaSyBK5uySXqO1s6l4ZsyJnMurdS8HjWV2lSU'
-my_cse_id = '000559725323169356790:sklbsen5qop'
+my_api_key = ''
+my_cse_id = ''
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
